@@ -26,8 +26,6 @@ Fornecer uma base sólida, profissional e escalável para desenvolvimento de API
 - **Produção Ready**: Configurações para desenvolvimento e produção
 - **Clean Code**: Segue PEP8 e boas práticas Django/DRF
 
-## Quick Start
-
 ##  Quick Start
 
 ### Instalação
