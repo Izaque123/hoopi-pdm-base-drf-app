@@ -1,0 +1,1 @@
+# hoopi-pdm-base-drf-app
